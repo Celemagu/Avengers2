@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* cualquier cosa 
+* aja y entonces 
